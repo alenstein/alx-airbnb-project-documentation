@@ -51,5 +51,5 @@ This DFD provides a high-level view of the data interactions within the Airbnb C
 
 **File Location:**
 
-* The diagram image is stored as `data-flow-diagram.png` in the `data-flow-diagram/` directory.
+* The diagram image is stored as `data-flow.png` in the `data-flow-diagram/` directory.
 
